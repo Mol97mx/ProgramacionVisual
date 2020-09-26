@@ -1,8 +1,5 @@
-# Autograding Example: Python
-This example project is written in Python, and tested with pytest.
-
-### The assignment
-The tests are failing right now because the method isn't outputting the correct string. Fixing this up will make the tests green.
+# Primera tarea de programacion visual  
+Este es un ejemplo de un hola mundo en python
 
 ### Setup command
 `sudo -H pip3 install pytest`
